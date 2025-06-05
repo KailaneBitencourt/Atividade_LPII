@@ -10,7 +10,7 @@ public class Televisao {
 
 	public Televisao(int tamanhoTela, String marca, int voltagem, int canal) {
 		this.tamanhoTela = tamanhoTela;
-		this.volume = 20; // 
+		this.volume = 5; // 
 		this.marca = marca;
 		this.voltagem = voltagem;
 		this.canal = canal;
